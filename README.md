@@ -17,5 +17,3 @@ In this project you are given a web-based application that reads RSS feeds. The 
 2. jQuery
 
 3. HTML5/CSS3
-
-# Feed-Reader-Testing
